@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "938506074633",
+    "project_id": "phone-auth-tutorial-885a8",
+    "storage_bucket": "phone-auth-tutorial-885a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938506074633:android:ef6e4151d7a2ef506756d8",
+        "android_client_info": {
+          "package_name": "com.tutorial.phone_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938506074633-hdkkrlpfecmosla2ou5d3jvim4cv08sk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tutorial.phone_auth",
+            "certificate_hash": "da1c9702caf2e413393326013216382ed13376a8"
+          }
+        },
+        {
+          "client_id": "938506074633-td6v40e5ue0qd0vum1q9vcmtv82g97ha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL8_k0UwhwIG3SDFUFBA6CtQlw2zV1VG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938506074633-td6v40e5ue0qd0vum1q9vcmtv82g97ha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
