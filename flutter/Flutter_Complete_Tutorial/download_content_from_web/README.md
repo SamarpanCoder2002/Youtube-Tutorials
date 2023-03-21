@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+### 👉 Ios Permission Adding Documentation:
+
+* https://github.com/Baseflow/flutter-permission-handler/blob/master/permission_handler/example/ios/Podfile
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
